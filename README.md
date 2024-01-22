@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by AMV
+# Data Engineering YouTube Analysis Project
 
 ## Overview
 
